@@ -1,4 +1,4 @@
-# React Native CodePush集成
+# React Native&iOS CodePush集成
 author: ImL1s
 
 email: ImL1s@outlook.com
